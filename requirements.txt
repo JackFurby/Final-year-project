@@ -1,0 +1,13 @@
+numpy
+pillow
+soundfile
+torch
+torchvision
+matplotlib
+tqdm
+resampy
+wandb
+nnAudio
+librosa
+celluloid
+opencv-python
