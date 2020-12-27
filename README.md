@@ -1,6 +1,18 @@
 # Final year project - Explainable Artificial Intelligence for Multi-Sensor Information Fusion
 
-Final year project for my undergraduate degree at Cardiff University. This was worked on alongside a new explanation technique called VADR (now SAVR). Please see the reference at the bottom of the README for more.
+For my final year project at Cardiff University, I had to create a multimodal video classifier with explainable AI capabilities. This was successfully done with the code in this repo having the capabilities to do the following:
+
+* Train a model from scratch / from a previously trained model
+* Perform classification on an input video with explainable AI capabilities using SAVR (previously VADR)
+* Produce graphs showing the performance of the model
+
+My final report can be view [here](https://pats.cs.cf.ac.uk/@archive_file?p=1370&n=final&f=1-report.pdf&SIG=8352ce3d25044eb9e4b49fb4df9b566d576bcbccacf41c07ae9e4e081496a672) which contains more detail. Overall this work was awarded 79%.
+
+This was worked on alongside a new explanation technique called SAVR. Please see the reference at the bottom of the README for more.
+
+# Example of output
+
+
 
 # Reference
 
