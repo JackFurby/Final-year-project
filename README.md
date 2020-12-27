@@ -12,6 +12,9 @@ This was worked on alongside a new explanation technique called SAVR. Please see
 
 # Example of output
 
+![Clif diving](https://github.com/JackFurby/Final-year-project/blob/main/CliffDiving.gif)
+
+![Hammering](https://github.com/JackFurby/Final-year-project/blob/main/Hammering2.gif)
 
 
 # Reference
